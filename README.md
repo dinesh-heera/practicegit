@@ -1,2 +1,2 @@
-## Practicing GitHub Actions
+### Practicing GitHub Actions
 # practicegit
